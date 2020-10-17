@@ -1,0 +1,75 @@
+ @media (max-width: 576px) {
+     body {
+         background-color: grey;
+     }
+ }
+ 
+ h1 {
+     position: absolute;
+     top: 0;
+     left: 0;
+     background: rgb(0, 0, 0);
+     background: rgba(0, 0, 0, 0.5);
+     color: #f1f1f1;
+     width: 100%;
+     padding: 20px;
+ }
+ 
+ body {
+     background-color: grey;
+ }
+ 
+ .jumbotron {
+     background-color: grey;
+     color: #ffffff;
+     margin-top: 60px;
+ }
+ 
+ .card-container {
+     float: right;
+     color: black;
+     font-size: 18px;
+ }
+ 
+ .footer {
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     background-color: aquamarine;
+     color: black;
+     text-align: center;
+ }
+ 
+ .icon1 {
+     position: absolute;
+     bottom: 75px;
+     right: 170px;
+ }
+ 
+ .icon2 {
+     position: absolute;
+     bottom: 85px;
+     right: 110px;
+ }
+ 
+ .icon3 {
+     position: absolute;
+     bottom: 85px;
+     right: 40px;
+ }
+ 
+ h3 {
+     position: absolute;
+     bottom: 140px;
+     right: 40px;
+ }
+ 
+ #js-repo-list a {
+     color: white;
+     text-decoration: none;
+ }
+ 
+ #js-repo-list a:hover {
+     color: blue;
+ }
